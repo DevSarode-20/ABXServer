@@ -1,0 +1,17 @@
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\bin\Debug\net8.0\Proxyserver api.exe
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\bin\Debug\net8.0\Proxyserver api.deps.json
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\bin\Debug\net8.0\Proxyserver api.runtimeconfig.json
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\bin\Debug\net8.0\Proxyserver api.dll
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\bin\Debug\net8.0\Proxyserver api.pdb
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\obj\Debug\net8.0\Proxyserver api.csproj.AssemblyReference.cache
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\obj\Debug\net8.0\Proxyserver api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\obj\Debug\net8.0\Proxyserver api.AssemblyInfoInputs.cache
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\obj\Debug\net8.0\Proxyserver api.AssemblyInfo.cs
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\obj\Debug\net8.0\Proxyserver api.csproj.CoreCompileInputs.cache
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\obj\Debug\net8.0\Proxyser.170B7D8C.Up2Date
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\obj\Debug\net8.0\Proxyserver api.dll
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\obj\Debug\net8.0\refint\Proxyserver api.dll
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\obj\Debug\net8.0\Proxyserver api.pdb
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\obj\Debug\net8.0\Proxyserver api.genruntimeconfig.cache
+C:\Users\Devidas\source\repos\Proxyserver api\Proxyserver api\obj\Debug\net8.0\ref\Proxyserver api.dll
